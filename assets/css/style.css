@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #ffed29;
+  color: #43aea0;
 }
 
 a:hover {
@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #ffed29;
+  color: #25564f;
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
@@ -380,7 +380,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 
 #hero .btn-get-started:hover {
   background: #fff;
-  color: #ffed29;
+  color: #70b9b0;
   border: 1px solid #70b9b0;
 }
 
